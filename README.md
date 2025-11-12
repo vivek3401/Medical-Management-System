@@ -39,3 +39,38 @@ Time wastage in data storage and retrieval.
 Human error possibility in maintainance.
 Patient's were unable to understand prescriptions due to handwriting issue.
 Durability issues (data may lost if prescriptions goes missing).
+
+Snapshots-
+1. Homepage<img width="1366" height="768" alt="274579592-2c0676ab-b466-4b89-bf6c-a7d230985ade" src="https://github.com/user-attachments/assets/aea54831-066b-49db-813a-f3e063b0a6e5" />
+
+
+Home Page
+
+2. User Login
+<img width="1366" height="768" alt="274580014-68c87eb2-f806-44fb-a0c4-794aa8365da7" src="https://github.com/user-attachments/assets/25939fbb-4fc1-4c35-bd72-89995ffc2e7e" />
+
+3. About us<img width="1366" height="768" alt="274580915-b8101938-ce29-4529-8962-2b0a7e57d023" src="https://github.com/user-attachments/assets/af7bc859-3fa5-4e51-9cf3-ebdac1888aac" />
+
+
+about
+
+
+4. User Homepage<img width="1366" height="768" alt="274581339-bb24e7b5-2fb9-4321-8a43-5579ebb50ec1" src="https://github.com/user-attachments/assets/20d02481-9811-4551-84b9-587903af3a4d" />
+
+
+5. Appointment page
+<img width="1366" height="768" alt="274581983-7d589a40-d968-48b9-995d-ec5c0d421ee7" src="https://github.com/user-attachments/assets/5b2bb767-b3ce-400b-9c02-4fdd81f18d28" />
+
+Appointment
+
+6. Previous Appointment
+<img width="1366" height="768" alt="274582413-fba115fe-1df0-4d26-83f0-1816f20538c3" src="https://github.com/user-attachments/assets/9e425678-5298-4587-94f0-12fb415de402" />
+
+prevAppoint
+
+7. patient Details page
+<img width="1366" height="768" alt="274583274-461cd4be-60fb-482a-9e5a-cc33112de5dd" src="https://github.com/user-attachments/assets/2efaa9f5-41bd-481f-891d-9e3b0f369a84" />
+
+
+
+_---
